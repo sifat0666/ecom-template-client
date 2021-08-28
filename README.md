@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Awesome Project Build with TypeORM Type-Graphql
 
 Steps to run this project:
 
